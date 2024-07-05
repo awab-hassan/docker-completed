@@ -1,0 +1,13 @@
+Hello, This is how I solved this exercise with explaination:
+
+EX 7:
+
+set variables:
+
+MYSQL_USER=mysql-user which is DB_USER too.
+MYSQL_PASSWORD=mysql-password which is DB_PWD too.
+MYSQL_DATABASE=mydb which is DB_NAME too.
+MYSQL_HOST=localhost
+MYSQL_ROOT_PASSWORD=mysql-root-password
+PMA_HOST=mysql
+PMA_PORT=3306

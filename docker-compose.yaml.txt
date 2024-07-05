@@ -1,0 +1,13 @@
+services:
+	mongodb:
+		volumes:
+			- mongo-data:/data/db
+			
+
+
+
+
+
+volumes:
+	mongo-data 
+		driver:local #additional_information_to_create_database_on_local_file_system
